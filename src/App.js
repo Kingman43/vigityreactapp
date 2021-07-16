@@ -10,7 +10,7 @@ function App() {
             <AmplifyAuthenticator usernameAlias="email">
                 <header>
                     <img src={logo} alt="logo" />
-                    <h1>Welcome to Test Vigity</h1>
+                    <h1>Welcome to Vigity</h1>
 
                     <AmplifySignOut slot="sign-out"/>
                 </header>
