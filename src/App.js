@@ -9,6 +9,9 @@ function App() {
         <div className="App">
             <AmplifyAuthenticator usernameAlias="email">
                 <header>
+                    <br/>
+                    <br/>
+
                     <img src={logo} alt="logo" />
                     <h1>Welcome to Vigity</h1>
 
